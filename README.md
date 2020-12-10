@@ -4,13 +4,18 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 
 - 📊&nbsp;&nbsp; Really keen to improve my coding skills so I often take part in coding challenges, complete tracks at exercism.io and dabble with personal projects
 - 👨🏽‍💻&nbsp;&nbsp; Currently working, learning and growing my skillset in data structures and algorithms as the latest round of Advent of Code showed me to be lacking in my CS foundations.
-- ⚙️&nbsp;&nbsp; Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker`
+- ⚙️&nbsp;&nbsp; Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [blog] or [linkedin].
 
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+#### Whatapalaver Coding Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 <p align="center">
