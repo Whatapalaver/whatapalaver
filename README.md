@@ -9,7 +9,7 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
-- [Query examples with Elasticsearch_dsl](https://whatapalaver.co.uk/elasticsearch_dsl-OR-query)
+- [Query examples with Elasticsearch_dsl - Should with Q](https://whatapalaver.co.uk/elasticsearch_dsl-OR-query)
 - [Rogue newline characters appearing in my jekyll variables](https://whatapalaver.co.uk/rogue-newline-jekyll-variables)
 - [How to show Liquid code blocks in Jekyll markdown files](https://whatapalaver.co.uk/liquid-codeblocks-jekyll-markdown)
 - [Grouping Jekyll post by tag](https://whatapalaver.co.uk/jekyll-posts-by-tag)
