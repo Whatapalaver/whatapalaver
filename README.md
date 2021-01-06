@@ -9,11 +9,11 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
+- [Nested List Comprehension Syntax](https://whatapalaver.co.uk/nested-list-comprehensions)
 - [Conditional Response Class in FastAPI](https://whatapalaver.co.uk/conditional-response-class-fastapi)
 - [Bash Shortcuts](https://whatapalaver.co.uk/bash-shortcuts)
 - [Query examples with Elasticsearch_dsl - Should with Q](https://whatapalaver.co.uk/elasticsearch_dsl-OR-query)
 - [Git Diff and Patch](https://whatapalaver.co.uk/git-patching-with-diff)
-- [Rogue newline characters appearing in my jekyll variables](https://whatapalaver.co.uk/rogue-newline-jekyll-variables)
 <!-- BLOG-POST-LIST:END -->
 
 #### Whatapalaver Coding Stats
