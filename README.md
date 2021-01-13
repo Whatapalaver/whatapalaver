@@ -10,10 +10,10 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
 - [Help - I Accidentally Closed My Docker Terminal Window](https://whatapalaver.co.uk/closed-my-docker-terminal)
+- [A byebug Equivalent for Python Debugging](https://whatapalaver.co.uk/byebug-for-python)
 - [Elasticsearch Should or Should Not with Negated Filter Terms](https://whatapalaver.co.uk/elasticsearch-should-or-should-not)
 - [Nested List Comprehension Syntax](https://whatapalaver.co.uk/nested-list-comprehensions)
 - [Conditional Response Class in FastAPI](https://whatapalaver.co.uk/conditional-response-class-fastapi)
-- [Bash Shortcuts](https://whatapalaver.co.uk/bash-shortcuts)
 <!-- BLOG-POST-LIST:END -->
 
 #### Whatapalaver Coding Stats
