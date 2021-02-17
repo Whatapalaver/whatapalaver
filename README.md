@@ -6,6 +6,15 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 - Latest work project is the release of [Explore the Collections (beta)](https://www.vam.ac.uk/blog/digital/announcing-explore-the-collections)
 - Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
 
+#### Recent whatapalaver posts
+<!-- BLOG-POST-LIST:START -->
+- [Bash Script Logging or IO Redirection](https://whatapalaver.co.uk/bash-logging)
+- [Installation Tips to get Tooltips and Popovers working with Bootstrap 5 and Rails 6](https://whatapalaver.co.uk/bootstrap-5-rails-6)
+- [Help - I Accidentally Closed My Docker Terminal Window](https://whatapalaver.co.uk/closed-my-docker-terminal)
+- [A byebug Equivalent for Python Debugging](https://whatapalaver.co.uk/byebug-for-python)
+- [Elasticsearch Should or Should Not with Negated Filter Terms](https://whatapalaver.co.uk/elasticsearch-should-or-should-not)
+<!-- BLOG-POST-LIST:END -->
+
 [![alt text][1.1]][email]
 [![alt text][2.1]][blog]
 [![alt text][3.1]][twitter]
@@ -25,12 +34,3 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 [linkedin]: https://www.linkedin.com/in/angelwolff
 [instagram]: https://instagram/whatapalaver_codes
 [github]: https://github.com/Whatapalaver
-
-#### Recent whatapalaver posts
-<!-- BLOG-POST-LIST:START -->
-- [Bash Script Logging or IO Redirection](https://whatapalaver.co.uk/bash-logging)
-- [Installation Tips to get Tooltips and Popovers working with Bootstrap 5 and Rails 6](https://whatapalaver.co.uk/bootstrap-5-rails-6)
-- [Help - I Accidentally Closed My Docker Terminal Window](https://whatapalaver.co.uk/closed-my-docker-terminal)
-- [A byebug Equivalent for Python Debugging](https://whatapalaver.co.uk/byebug-for-python)
-- [Elasticsearch Should or Should Not with Negated Filter Terms](https://whatapalaver.co.uk/elasticsearch-should-or-should-not)
-<!-- BLOG-POST-LIST:END -->
