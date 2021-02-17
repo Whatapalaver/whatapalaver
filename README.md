@@ -2,8 +2,9 @@
 
 I'm a fullstack developer at the V&A Museum in London, where I've been since the beginning of 2019, having completed a coding bootcamp at Makers. Previously I was a technical accountant in the NHS (costing and income), I have a passion for healthcare and hope ultimately to be able to use my coding skills in this area.
 
-- :clubs: &nbsp;&nbsp; Latest personal project is [BHG - Bridge Hand Generator](http://www.remotebridge.co.uk), designed to allow our Bridge Club to continue playing remotely. Built in Rails.
-- ⚙️ &nbsp;&nbsp; Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
+- Latest personal project is [BHG - Bridge Hand Generator](http://www.remotebridge.co.uk), designed to allow our Bridge Club to continue playing remotely. Built in Rails.
+- Latest work project is the release of [Explore the Collections (beta)](https://www.vam.ac.uk/blog/digital/announcing-explore-the-collections)
+- Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
 
 [![alt text][1.1]][email]
 [![alt text][2.1]][blog]
