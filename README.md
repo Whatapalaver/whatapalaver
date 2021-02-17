@@ -21,6 +21,7 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 [![alt text][4.1]][linkedin]
 [![alt text][5.1]][instagram]
 [![alt text][6.1]][github]
+[![alt text][7.1]][cv]
 
 [1.1]: /images/iconfinder_social-media_gmail_1873613.png "email link"
 [2.1]: /images/iconfinder_social-media_web_1873909.png "blog link"
@@ -28,9 +29,12 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 [4.1]: /images/iconfinder_social-media_linkedin_1727490.png "linkedin"
 [5.1]: /images/iconfinder_social-media_instagram_1543322.png "instagram link"
 [6.1]: /images/iconfinder_social-media_GitHub_1872635.png "github link"
+[7.1]: /images/iconfinder_social-media_CV_4206650.png "resume link"
+
 [email]: mailto:warriorwomenblog@gmail.com
 [twitter]: https://twitter.com/DoctorMoxie
 [blog]: https://whatapalaver.co.uk
 [linkedin]: https://www.linkedin.com/in/angelwolff
 [instagram]: https://instagram/whatapalaver_codes
 [github]: https://github.com/Whatapalaver
+[cv]: https://github.com/Whatapalaver/CV/blob/master/README.md
