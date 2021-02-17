@@ -1,11 +1,29 @@
-## Hi 👋 I'm Angela
+## Angela Wolff - Software Developer
 
-I'm a fullstack developer at the V&A Museum in London, where I've been since the beginning of 2019, having completed a coding bootcamp at Makers.
+I'm a fullstack developer at the V&A Museum in London, where I've been since the beginning of 2019, having completed a coding bootcamp at Makers. Previously I was a technical accountant in the NHS (costing and income), I have a passion for healthcare and hope ultimately to be able to use my coding skills in this area.
 
-- 📊&nbsp;&nbsp; Really keen to improve my coding skills so I often take part in coding challenges, complete tracks at exercism.io and dabble with personal projects
-- 👨🏽‍💻&nbsp;&nbsp; Currently working, learning and growing my skillset in data structures and algorithms as the latest round of Advent of Code showed me to be lacking in my CS foundations.
-- ⚙️&nbsp;&nbsp; Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
-- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [blog] or [linkedin].
+- :clubs: &nbsp;&nbsp; Latest personal project is [BHG - Bridge Hand Generator](http://www.remotebridge.co.uk), designed to allow our Bridge Club to continue playing remotely. Built in Rails.
+- ⚙️ &nbsp;&nbsp; Most active with: `python`, `ruby`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
+
+[![alt text][1.1]][email]
+[![alt text][2.1]][blog]
+[![alt text][3.1]][twitter]
+[![alt text][4.1]][linkedin]
+[![alt text][5.1]][instagram]
+[![alt text][6.1]][github]
+
+[1.1]: /images/iconfinder_social-media_gmail_1873613.png "email link"
+[2.1]: /images/iconfinder_social-media_web_1873909.png "blog link"
+[3.1]: /images/iconfinder_social-media_twitter_sm.png "twitter link"
+[4.1]: /images/iconfinder_social-media_linkedin_1727490.png "linkedin"
+[5.1]: /images/iconfinder_social-media_instagram_1543322.png "instagram link"
+[6.1]: /images/iconfinder_social-media_GitHub_1872635.png "github link"
+[email]: mailto:warriorwomenblog@gmail.com
+[twitter]: https://twitter.com/DoctorMoxie
+[blog]: https://whatapalaver.co.uk
+[linkedin]: https://www.linkedin.com/in/angelwolff
+[instagram]: https://instagram/whatapalaver_codes
+[github]: https://github.com/Whatapalaver
 
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,23 +33,3 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 - [A byebug Equivalent for Python Debugging](https://whatapalaver.co.uk/byebug-for-python)
 - [Elasticsearch Should or Should Not with Negated Filter Terms](https://whatapalaver.co.uk/elasticsearch-should-or-should-not)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-<br><br>
-<a href= "https://instagram.com/whatapalaver_codes">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Whatapalaver's coding instagram" width="28px"/></a>
-&emsp;
-<a href="https://whatapalaver.co.uk">
-<img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Angela Wolff personal coding website" width="28px"/></a>
-&emsp;
-<a href="https://linkedin.com/in/angelwolff">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Angela Wolff's linkedin profile" width="26px"/></a>
-&emsp;
-<a href="https://twitter.com/DoctorMoxie">
-<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Doctor Moxie twitter profile" width="26px"/></a>
-&emsp;
-
-[email]: mailto:warriorwomenblog@gmail.com
-[twitter]: https://twitter.com/DoctorMoxie
-[blog]: https://whatapalaver.co.uk
-[linkedin]: https://www.linkedin.com/in/angelwolff
