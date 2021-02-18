@@ -1,6 +1,16 @@
 ## Angela Wolff - Software Developer
 
-I'm a fullstack developer at the V&A Museum in London, where I've been since the beginning of 2019, having completed a coding bootcamp at Makers. Previously I was a technical accountant in the NHS (costing and income), I have a passion for healthcare and hope ultimately to be able to use my coding skills in this area.
+
+<a href="mailto:whatapalaver@hey.com"><img height="40" src="/images/iconfinder_social-media_gmail_1873613.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/DoctorMoxie"><img height="40" src="/images/iconfinder_social-media_twitter_sm.png"></a>&nbsp;&nbsp;
+<a href="https://whatapalaver.co.uk"><img height="40" src="/images/iconfinder_social-media_web_1873909.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/angelwolff"><img height="40" src="/images/iconfinder_social-media_linkedin_1727490.png"></a>&nbsp;&nbsp;
+<a href="https://instagram/whatapalaver_codes"><img height="40" src="/images/iconfinder_social-media_instagram_1543322.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/Whatapalaver"><img height="40" src="/images/iconfinder_social-media_GitHub_1872635.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/Whatapalaver/CV/blob/master/README.md"><img height="40" src="/images/iconfinder_social-media_CV_4206650.png"></a>
+
+
+I'm a fullstack developer at the V&A Museum in London, where I've been since the beginning of 2019, having completed a coding bootcamp at Makers. Previously I was a technical accountant in the NHS (costing and income), I have a passion for healthcare and hope ultimately to be able to use my coding skills in this area. I'm a blogger and a learner and I like to share cool tips on my blogs. Techy faff on [whatapalaver](https://whatapalaver.co.uk/), Excel skills on [NHS Excel](http://nhsexcel.com/) and [Excel Pivots](http://excelpivots.com/).
 
 - Latest personal project is [BHG - Bridge Hand Generator](http://www.remotebridge.co.uk), designed to allow our Bridge Club to continue playing remotely. Built in Rails.
 - Latest work project is the release of [Explore the Collections (beta)](https://www.vam.ac.uk/blog/digital/announcing-explore-the-collections)
@@ -15,26 +25,3 @@ I'm a fullstack developer at the V&A Museum in London, where I've been since the
 - [Elasticsearch Should or Should Not with Negated Filter Terms](https://whatapalaver.co.uk/elasticsearch-should-or-should-not)
 <!-- BLOG-POST-LIST:END -->
 
-[![alt text][1.1]][email]
-[![alt text][2.1]][blog]
-[![alt text][3.1]][twitter]
-[![alt text][4.1]][linkedin]
-[![alt text][5.1]][instagram]
-[![alt text][6.1]][github]
-[![alt text][7.1]][cv]
-
-[1.1]: /images/iconfinder_social-media_gmail_1873613.png "email link"
-[2.1]: /images/iconfinder_social-media_web_1873909.png "blog link"
-[3.1]: /images/iconfinder_social-media_twitter_sm.png "twitter link"
-[4.1]: /images/iconfinder_social-media_linkedin_1727490.png "linkedin"
-[5.1]: /images/iconfinder_social-media_instagram_1543322.png "instagram link"
-[6.1]: /images/iconfinder_social-media_GitHub_1872635.png "github link"
-[7.1]: /images/iconfinder_social-media_CV_4206650.png "resume link"
-
-[email]: mailto:warriorwomenblog@gmail.com
-[twitter]: https://twitter.com/DoctorMoxie
-[blog]: https://whatapalaver.co.uk
-[linkedin]: https://www.linkedin.com/in/angelwolff
-[instagram]: https://instagram/whatapalaver_codes
-[github]: https://github.com/Whatapalaver
-[cv]: https://github.com/Whatapalaver/CV/blob/master/README.md
