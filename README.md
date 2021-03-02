@@ -1,4 +1,4 @@
-## Angela Wolff - Software Developer
+## Dr Angela Wolff - Software Developer
 
 
 <a href="mailto:whatapalaver@hey.com"><img height="40" src="/images/iconfinder_social-media_gmail_1873613.png"></a>&nbsp;&nbsp;
