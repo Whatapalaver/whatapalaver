@@ -19,10 +19,10 @@ After finishing my coding bootcamp at Makers, I spent 2 years honing my skills a
 
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
+- [Stoic Fear Setting - a reflection](https://whatapalaver.co.uk/stoic-fear-setting)
 - [Confident Code - Ruby Implicit and Explicit Type Converters](https://whatapalaver.co.uk/ruby-implicit-explicit-type-conversion)
 - [Bash Script Logging or IO Redirection](https://whatapalaver.co.uk/bash-logging)
 - [Installation Tips to get Tooltips and Popovers working with Bootstrap 5 and Rails 6](https://whatapalaver.co.uk/bootstrap-5-rails-6)
 - [Help - I Accidentally Closed My Docker Terminal Window](https://whatapalaver.co.uk/closed-my-docker-terminal)
-- [A byebug Equivalent for Python Debugging](https://whatapalaver.co.uk/byebug-for-python)
 <!-- BLOG-POST-LIST:END -->
 
