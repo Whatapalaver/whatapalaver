@@ -13,7 +13,7 @@
 I'm a web developer at SixToStart and I'm so excited to be working on the super inclusive fitness game Zombies, Run! I'm a mega fan and it's a joy to continue my development career with the team there. 
 After finishing my coding bootcamp at Makers, I spent 2 years honing my skills at the V&A Museum in London, spending most of my time on Rails, Python, FastAPI and elasticsearch while we transformed the online collections site. Previously I was a technical accountant in the NHS (costing and income), I have a passion for health and fitness. I'm a blogger and a learner and I like to share cool tips on my blogs. Techy faff on [whatapalaver](https://whatapalaver.co.uk/), Excel skills on [NHS Excel](http://nhsexcel.com/) and [Excel Pivots](http://excelpivots.com/).
 
-- Latest personal project is [BHG - Bridge Hand Generator](http://www.remotebridge.co.uk), designed to allow our Bridge Club to continue playing remotely. Built in Rails.
+- Latest personal project is [BHG - Bridge Hand Generator](http://www.remotebridge.co.uk), designed to allow our Bridge Club to continue playing remotely during the big C lockdown era. Built in Rails.
 - Latest public work project is the release of [Explore the Collections (beta)](https://www.vam.ac.uk/blog/digital/announcing-explore-the-collections)
 - Most active with: `python`, `ruby`, `django`, `ruby on rails`, `elasticsearch`, `docker` and `bash`
 
