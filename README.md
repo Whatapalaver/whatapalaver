@@ -1,7 +1,7 @@
 ## Dr Angela Wolff - Software Developer
 
 
-<a href="mailto:whatapalaver@hey.com"><img height="40" src="/images/iconfinder_social-media_gmail_1873613.png"></a>&nbsp;&nbsp;
+<a href="mailto:ang@whatapalaver.co.uk"><img height="40" src="/images/iconfinder_social-media_gmail_1873613.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/DoctorMoxie"><img height="40" src="/images/iconfinder_social-media_twitter_sm.png"></a>&nbsp;&nbsp;
 <a href="https://whatapalaver.co.uk"><img height="40" src="/images/iconfinder_social-media_web_1873909.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/angelwolff"><img height="40" src="/images/iconfinder_social-media_linkedin_1727490.png"></a>&nbsp;&nbsp;
