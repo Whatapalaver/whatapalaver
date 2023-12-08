@@ -2,7 +2,7 @@
 
 
 <a href="mailto:ang@whatapalaver.co.uk"><img height="40" src="/images/iconfinder_social-media_gmail_1873613.png"></a>&nbsp;&nbsp;
-<a href="https://floss.social/@whatapalaver"><img height="40" src="/images/8666410_mastodon_icon.png"></a>&nbsp;&nbsp;
+<a href="https://floss.social/@whatapalaver"><img height="40" src="/images/4373964_logo_logos_mastodon_icon.png"></a>&nbsp;&nbsp;
 <a href="https://whatapalaver.co.uk"><img height="40" src="/images/iconfinder_social-media_web_1873909.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/angelwolff"><img height="40" src="/images/iconfinder_social-media_linkedin_1727490.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/Whatapalaver"><img height="40" src="/images/iconfinder_social-media_GitHub_1872635.png"></a>&nbsp;&nbsp;
