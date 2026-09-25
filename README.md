@@ -19,10 +19,10 @@ After finishing my coding bootcamp at Makers, I spent 2 years honing my skills a
 
 #### Recent whatapalaver posts
 <!-- BLOG-POST-LIST:START -->
+- [Financial Independence - Bridging Calculator for Couples](https://whatapalaver.co.uk/more-couples-retirement-planning)
 - [Life in Weeks](https://whatapalaver.co.uk/life-in-weeks)
 - [Goodbye Hey.com Email](https://whatapalaver.co.uk/goodbye-hey-dot-com)
 - [Stoic Fear Setting - a reflection](https://whatapalaver.co.uk/stoic-fear-setting)
 - [Confident Code - Ruby Implicit and Explicit Type Converters](https://whatapalaver.co.uk/ruby-implicit-explicit-type-conversion)
-- [Bash Script Logging or IO Redirection](https://whatapalaver.co.uk/bash-logging)
 <!-- BLOG-POST-LIST:END -->
 
